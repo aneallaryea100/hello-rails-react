@@ -9,7 +9,7 @@ This is an educational project for building "One App" only (backend+frontend) ap
 ## Getting Started
 
 - Check the Ruby version or if you have at all by running `ruby -v` if you get something like this `ruby 2.6.8p205 (2021-07-07 revision 67951)` you have Ruby installed.
-- Clone the repository by runiing `git clone https://github.com/VitorGuedesMadeira/Hello-Rails-React.git` in your CLI.
+- Clone the repository by runiing `git clone https://github.com/aneallaryea100/hello-rails-react.git` in your CLI.
 - `cd Hello-Rails-React`
 - Run `bundle install`
 - Run `rails db:create db:migrate db:seed`
